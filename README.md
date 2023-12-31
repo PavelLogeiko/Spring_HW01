@@ -12,4 +12,4 @@
 5. Используйте библиотеку gson для сериализации и десериализации объектов класса Person в формат JSON.
 
 Скрин работы програмимы:
-![1]()
+![1](https://github.com/PavelLogeiko/Spring_HW01/blob/main/images/1.png)
